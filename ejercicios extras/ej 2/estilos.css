@@ -1,0 +1,20 @@
+table{
+    width: 375px;
+    border: 1px solid #333;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Arial;
+}
+td{
+    text-align: center;
+}
+th.casa{
+    text-align: left;
+    background-color: #E6F3FF;
+}
+.image{
+background-image: url(fondo_gris.gif);
+}
+.s{
+    background-color: #FFFFCC;
+}

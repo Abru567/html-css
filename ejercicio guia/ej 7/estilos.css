@@ -1,0 +1,15 @@
+*{
+    background-color: beige;
+}
+h1{
+    font-family: sans-serif;
+    margin-right: 50%;
+    text-align: center;
+color: darkslategrey;
+}
+h2{
+    font-family: cursive;
+    margin-right: 50%;
+    text-align: center;
+    color: dimgrey;  
+}
